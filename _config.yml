@@ -1,2 +1,2 @@
 baseurl: /focux
-markdown: rdiscount
+markdown: redcarpet
